@@ -1,5 +1,5 @@
 <h1 align="center">Shop</h1>
-<p align="center">✒️Design second study for e-commerce responsive using html and css</p>
+<p align="center">✒️Design study for e-commerce responsive using html and css</p>
 <p align="center">
   <a href="http://shop2.surge.sh/">Check deploy</a>
 </p>
